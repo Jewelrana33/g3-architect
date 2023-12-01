@@ -142,7 +142,7 @@ body{
 }
 .articles-heading{
     font-size: 36px;
-    width: 300px;
+    width: 350px;
     color: #131313;
     border-left: 4px solid #FF900e;
     padding-left: 15px;
@@ -155,7 +155,7 @@ body{
 .more-features-articles .article{
     margin-top: 60px;
     padding-left: 30px;
-    padding-right: 150px;
+    padding-right: 100px;
 }
 .more-features-image{
     position: relative;
